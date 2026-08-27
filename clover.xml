@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1787848009">
-  <project timestamp="1787848009">
+<coverage generated="1787848434">
+  <project timestamp="1787848434">
     <file name="/home/runner/work/required-rule/required-rule/src/RequiredRule.php">
       <class name="Aegisora\Rules\RequiredRule" namespace="global">
         <metrics complexity="3" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="4" elements="6" coveredelements="6"/>
