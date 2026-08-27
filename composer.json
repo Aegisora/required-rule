@@ -1,8 +1,17 @@
 {
     "name": "aegisora/required-rule",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Required Rule provides a simple, rule-based presence validation implementation for the Aegisora ecosystem",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "validator",
+        "rule",
+        "required",
+        "required-validation"
+    ],
     "homepage": "https://github.com/Aegisora/required-rule",
     "support": {
         "issues": "https://github.com/Aegisora/required-rule/issues",
